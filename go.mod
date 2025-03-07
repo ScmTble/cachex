@@ -1,6 +1,6 @@
 module github.com/scmtble/cachex
 
-go 1.24.1
+go 1.23.0
 
 require (
 	github.com/redis/rueidis v1.0.55
